@@ -201,7 +201,6 @@
             this.label2.TabIndex = 19;
             this.label2.Text = "Список товаров";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label2.Visible = false;
             // 
             // Form1
             // 
